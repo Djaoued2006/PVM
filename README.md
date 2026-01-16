@@ -17,3 +17,6 @@ Below is a very simple code snippet in pasm (PACKL Assembler) that prints "Hello
 
 #entry: $main
 ```
+
+# Note
+I wanna focus on re-factoring the code and the logic of this vm, so i can extend its features more and more.
